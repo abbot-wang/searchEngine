@@ -1,5 +1,4 @@
-4.0：
-1.先将离线模块生成
+先将离线模块生成
 key->modle1_离线
 web->pageWeb的test.cc里解注释
 
