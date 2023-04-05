@@ -1,0 +1,16 @@
+2022-07-01 10:01:10,410  [INFO] ../include/SearchEngineServer.h(79)-<process>: 关键词推荐：hello
+2022-07-01 10:01:21,200  [INFO] ../include/SearchEngineServer.h(90)-<process>: 网页查询：中国
+2022-07-01 10:03:51,553  [DEBUG] ../include/SearchEngineServer.h(108)-<process>: 请选择正确选项：nihao
+2022-07-01 10:04:01,115  [INFO] ../include/SearchEngineServer.h(79)-<process>: 关键词推荐：nihao
+2022-07-01 10:04:07,823  [INFO] ../include/SearchEngineServer.h(90)-<process>: 网页查询：中国
+2022-07-01 10:04:17,465  [DEBUG] ../include/SearchEngineServer.h(108)-<process>: 请选择正确选项：zg
+2022-07-01 12:06:55,310  [INFO] ../include/SearchEngineServer.h(71)-<process>: 关键词推荐：hello
+2022-07-01 12:07:06,593  [INFO] ../include/SearchEngineServer.h(78)-<process>: 网页查询：中国
+2022-07-01 13:50:20,598  [INFO] ../include/SearchEngineServer.h(71)-<process>: 关键词推荐：中国
+2022-07-01 13:50:22,897  [INFO] ../include/SearchEngineServer.h(78)-<process>: 网页查询：hello~/C1.hello
+2022-07-01 14:12:21,186  [INFO] ../include/SearchEngineServer.h(71)-<process>: 关键词推荐：hello
+2022-07-01 14:12:35,460  [INFO] ../include/SearchEngineServer.h(71)-<process>: 关键词推荐：hello
+2022-07-01 14:12:41,561  [INFO] ../include/SearchEngineServer.h(71)-<process>: 关键词推荐：hello
+2022-07-01 14:13:03,465  [INFO] ../include/SearchEngineServer.h(71)-<process>: 关键词推荐：中国
+2022-07-01 14:13:13,563  [INFO] ../include/SearchEngineServer.h(71)-<process>: 关键词推荐：中国
+2022-07-01 14:13:51,380  [INFO] ../include/SearchEngineServer.h(71)-<process>: 关键词推荐： 中国
